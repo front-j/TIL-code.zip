@@ -1,6 +1,6 @@
 # JavaScript Modal Popup
 
-![image](./result.JPG)
+<img src=result.JPG width=720px height=420px></img>
 
 버튼을 클릭하여 모달 창 띄우기
 
